@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, my name is Arkadius Jonczek 🙋🏻‍♂️
+
+I'm a Senior Software Engineer (Backend/DevOps/Cloud) with over 10 years experience in building software systems located in NRW, Germany 🇩🇪
+
+Right now I'm working with Go and Knative in AWS using Amazon EKS, Istio, Flux and Terraform 👨🏻‍💻
 
 <!--
 **arkadiusjonczek/arkadiusjonczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
