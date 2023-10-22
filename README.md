@@ -4,6 +4,12 @@ I'm a Senior Software Engineer (Backend/DevOps/Cloud) with over 10 years experie
 
 Right now I'm working with Go and Knative in AWS using Amazon EKS, Istio, Flux and Terraform 👨🏻‍💻
 
+## Certifications
+
+- AWS Certified Developer – Associate (30. November 2022)
+- Confluent Certified Developer for Apache Kafka (31. Dezember 2021)
+- Elastic Certified Engineer (20. Juni 2020)
+
 <!--
 **arkadiusjonczek/arkadiusjonczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
