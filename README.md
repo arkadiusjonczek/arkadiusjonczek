@@ -1,8 +1,8 @@
 # Hi 🙋🏻‍♂️ I'm Arkadius Jonczek
 
-I'm a Senior Software Engineer (Backend/DevOps/Cloud) with over 10 years experience in building software systems located in NRW, Germany 🇩🇪
+I'm a Senior Software Engineer with 10+ years of experience in building software systems and a strong focus on Cloud-Native development
 
-Right now I'm working with Go and Knative in AWS using Amazon EKS, Istio, Flux, Terraform and GitLab 👨🏻‍💻
+Right now I'm working with Go and Knative in AWS using Amazon EKS, Terraform, Flux, Helm, Istio, Keycloak and GitLab 👨🏻‍💻
 
 ## Certifications
 
