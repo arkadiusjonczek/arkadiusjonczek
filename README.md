@@ -4,6 +4,8 @@ I'm a Senior Software Engineer with 10+ years of experience in building software
 
 Right now I'm working with Go, protobuf, gRPC, testcontainers and Knative in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka, Docker, Kaniko, Git and GitLab 👨🏻‍💻
 
+#cleancode
+
 ## Certifications
 
 - AWS Certified Developer – Associate (30. November 2022)
