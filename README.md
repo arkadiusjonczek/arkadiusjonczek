@@ -6,7 +6,7 @@ Right now I'm working with Go, protobuf, gRPC, testcontainers and Knative in AWS
 
 ❤️ open source + cloud-native + clean code
 
-[How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+[How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html) [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
 ## Certifications
 
