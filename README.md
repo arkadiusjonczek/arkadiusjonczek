@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer with 10+ years of experience in building software systems and a strong focus on Cloud-Native development.
 
-Right now I'm working with Go, protobuf, gRPC, testcontainers and Knative in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka, Docker, Kaniko, Git and GitLab. 👨🏻‍💻
+Right now I'm working with Go, protobuf, gRPC, Testcontainers, Knative and CloudEvents in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka, Docker, Kaniko, Git and GitLab. 👨🏻‍💻
 
 ❤️ open source + clean code + cloud-native
 
