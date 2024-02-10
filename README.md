@@ -7,13 +7,9 @@ Right now I'm working with Go, protobuf, gRPC, testcontainers, Knative and Cloud
 I ❤️ Open Source, Clean Code, Clean Architecture, Cloud-Native, Domain-Driven Design & arc42
 
 [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
-
 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
-
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
-
 [The Twelve-Factor App](https://12factor.net/)
-
 [arc42](https://arc42.org/overview)
 
 ## Certifications
