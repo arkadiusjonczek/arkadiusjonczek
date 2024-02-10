@@ -11,6 +11,7 @@ Recommendations:
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+- [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Twelve-Factor App](https://12factor.net/)
 - [arc42](https://arc42.org/overview)
 
