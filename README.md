@@ -4,9 +4,17 @@ I'm a Senior Software Engineer with 10+ years of experience in building software
 
 Right now I'm working with Go, protobuf, gRPC, testcontainers, Knative and CloudEvents in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka, Docker, Kaniko, Git and GitLab. 👨🏻‍💻
 
-❤️ open source + clean code + cloud-native
+I ❤️ Open Source, Clean Code, Clean Architecture, Cloud-Native, Domain-Driven Design & arc42
 
-[How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html) · [Manifesto for Agile Software Development](https://agilemanifesto.org/) · [The Twelve-Factor App](https://12factor.net/)
+[How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+
+[Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
+[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
+[The Twelve-Factor App](https://12factor.net/)
+
+[arc42](https://arc42.org/overview)
 
 ## Certifications
 
