@@ -1,6 +1,6 @@
 # Hi 🙋🏻‍♂️ I'm Arkadius Jonczek
 
-I'm a Senior Software Engineer with 10+ years of experience in building software systems specialized in Cloud-Native development & DevOps.
+I'm a Senior Software Engineer with 10+ years of experience in building software systems specialized in Cloud-Native development & DevOps. I started programming in 2005 and working as Software Engineer in 2010.
 
 Right now I'm working with Go, protobuf, gRPC, testcontainers, ~~Knative and CloudEvents~~ in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka/Redpanda, Docker, Kaniko, Git and GitLab. 👨🏻‍💻
 
