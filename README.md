@@ -1,4 +1,4 @@
-# Hi 🙋🏻‍♂️ I'm Arkadius Jonczek
+## Hi 🙋🏻‍♂️ I'm Arkadius Jonczek
 
 I'm a Senior Software Engineer with 10+ years of experience in building software systems specialized in Cloud-Native development & DevOps. I started programming in 2005 and working as Software Engineer in 2010.
 
@@ -15,7 +15,7 @@ Recommendations:
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [arc42](https://arc42.org/overview)
 
-## Certifications
+### Certifications
 
 - AWS Certified Developer – Associate (30. November 2022)
 - Confluent Certified Developer for Apache Kafka (31. Dezember 2021)
