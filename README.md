@@ -1,6 +1,6 @@
 Hi, I'm a Senior Software Engineer with 10+ years of experience in building software systems specialized in Cloud-Native development & DevOps. I started programming in 2005 and working as Software Engineer in 2010.
 
-Right now I'm working with Go, protobuf, gRPC, testcontainers, ~~Knative and CloudEvents~~ in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka/Redpanda, Docker, Kaniko, Git and GitLab. 👨🏻‍💻
+Right now I'm working with Go, protobuf, gRPC, testcontainers, ~~Knative and CloudEvents~~ in AWS using Amazon EKS (managed Kubernetes), Terraform, Flux, Helm, Istio, Keycloak, PostgreSQL, Kafka/Redpanda, Prometheus, Grafana, Docker, Kaniko, Git and GitLab. 👨🏻‍💻
 
 I ❤️ Open Source, Clean Code, Clean Architecture, Domain-Driven Design, Cloud-Native & arc42
 
@@ -12,7 +12,6 @@ Recommendations:
 - [The Twelve-Factor App](https://12factor.net/)
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [arc42](https://arc42.org/overview)
-- [Principles of chaos engineering](https://principlesofchaos.org/)
 
 ## Certifications
 
