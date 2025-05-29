@@ -10,8 +10,8 @@ Recommendations:
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
-- [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Twelve-Factor App](https://12factor.net/)
+- [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [arc42](https://arc42.org/overview)
 
 ## Certifications
