@@ -12,6 +12,7 @@ Recommendations:
 - [The Twelve-Factor App](https://12factor.net/)
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [arc42](https://arc42.org/overview)
+- [Principles of Chaos Engineering](https://principlesofchaos.org/)
 
 ## Certifications
 
