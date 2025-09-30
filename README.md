@@ -11,6 +11,7 @@ Recommendations:
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [The Twelve-Factor App](https://12factor.net/)
+- [SOLID principles](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
 
 ## Certifications
