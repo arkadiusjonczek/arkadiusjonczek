@@ -1,6 +1,6 @@
 Hi, I'm a Senior Software Engineer with 10+ years of experience in building software systems specialized in Cloud-Native development & DevOps. I started programming in 2005 and working as Software Engineer in 2010.
 
-I ❤️ Open Source, Clean Code, Clean Architectures, Domain-Driven Design, Cloud-Native & arc42
+I ❤️ Open Source, Clean Code, Clean Architecture, Domain-Driven Design, Cloud-Native & arc42
 
 Recommendations:
 
