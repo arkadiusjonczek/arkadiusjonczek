@@ -7,10 +7,11 @@ Recommendations:
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
-- [Principles of Chaos Engineering](https://principlesofchaos.org/)
+- [arc42 - Template for Architecture Documentation](https://arc42.org/overview)
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [The Twelve-Factor App](https://12factor.net/)
-- [Reactive Manifesto](https://www.reactivemanifesto.org/)
-- [arc42](https://arc42.org/overview)
+- [Principles of Chaos Engineering](https://principlesofchaos.org/)
 
 ## Certifications
 
