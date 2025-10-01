@@ -5,13 +5,13 @@ I ❤️ Open Source, Clean Code, Clean Architecture, Domain-Driven Design, Clou
 Recommendations:
 
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+- [arc42 - Template for Architecture Documentation](https://arc42.org/overview)
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
-- [arc42 - Template for Architecture Documentation](https://arc42.org/overview)
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-- [The Twelve-Factor App](https://12factor.net/)
 - [SOLID principles](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
+- [The Twelve-Factor App](https://12factor.net/)
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
 
 ## Certifications
