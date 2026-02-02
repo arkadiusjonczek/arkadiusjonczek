@@ -1,4 +1,4 @@
-I ❤️ Open Source, Clean Code, Clean Architecture, Domain-Driven Design, Cloud-Native, arc42 & YBIYRI
+I ❤️ Open Source, Clean Code, Clean Architecture, Domain-Driven Design, Cloud-Native & arc42
 
 Recommendations:
 
@@ -9,6 +9,8 @@ Recommendations:
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [SOLID principles](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
+- [Semantic Versioning](https://semver.org/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [The Twelve-Factor App](https://12factor.net/)
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
 
