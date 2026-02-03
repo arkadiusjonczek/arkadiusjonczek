@@ -1,5 +1,7 @@
 I ❤️ Open Source, Clean Code, Clean Architecture, Domain-Driven Design, Cloud-Native & arc42
 
+When building software systems, I prefer to be responsibility accross the whole software development life cycle using a "you build it, you run it" approach.
+
 Recommendations:
 
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
