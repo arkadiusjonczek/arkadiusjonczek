@@ -13,9 +13,9 @@ Recommendations:
 - [SOLID principles](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
 - [Semantic Versioning](https://semver.org/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [OWASP Top 10:2025](https://owasp.org/Top10/2025/)
 - [The Twelve-Factor App](https://12factor.net/)
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
+- [OWASP Top 10:2025](https://owasp.org/Top10/2025/)
 
 ## Certifications
 
