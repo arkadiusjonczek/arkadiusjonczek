@@ -11,6 +11,7 @@ Recommendations:
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [SOLID principles](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
+- [OWASP Top 10:2025](https://owasp.org/Top10/2025/)
 - [Semantic Versioning](https://semver.org/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [The Twelve-Factor App](https://12factor.net/)
