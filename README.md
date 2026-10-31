@@ -7,6 +7,7 @@ Recommendations:
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
 - [arc42 - Template for Architecture Documentation](https://arc42.org/overview)
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+- [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
